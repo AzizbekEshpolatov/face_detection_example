@@ -1,4 +1,4 @@
-# 📸 Face Detection Example  
+# Face Detection Example  
 Bu loyiha Flutter va Google ML Kit yordamida yuzni aniqlash uchun ishlatiladi. Ilova kameradan foydalangan holda foydalanuvchi yuzining turli holatlarini aniqlaydi va ko‘rsatmalar beradi.  
 ---
 
