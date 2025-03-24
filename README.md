@@ -383,7 +383,7 @@ class _FaceDetectionPageState extends State<FaceDetectionPage> {
 
 ```
 
-### 🇺🇿 Uzbekcha (uz)  
+### tarjimalar  
 ```dart
 final Map<String, String> taskMessagesUz = {
   'takeAction': "Harakatni boshlash",
